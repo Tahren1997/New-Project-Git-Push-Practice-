@@ -27,9 +27,11 @@
 }
 
 .male {
-    background: yellow;
+    background-color: yellow;
 }
 
 .female {
-    background: green;
+    background-color: green;
 }
+
+
